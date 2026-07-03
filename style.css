@@ -83,3 +83,7 @@ a:hover {
     background: rgba(91, 75, 138, 0.1);
     text-decoration: underline;
 }
+h3 {
+    margin-top: 5px;
+    color: #5B4B8A;
+}
