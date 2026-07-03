@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Territorio 001</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Territorio 001</h1>
+
+<p><a href="index.html">← Volver al programa semanal</a></p>
+
+<hr>
+
+<h2>Mapa</h2>
+
+<!-- Aquí irá el mapa de Google My Maps -->
+
+<iframe
+    src="PEGAR_AQUI_EL_LINK_DEL_MAPA"
+    width="100%"
+    height="600"
+    style="border:1px solid #ccc;"
+    loading="lazy">
+</iframe>
+
+<hr>
+
+<h2>No visitar</h2>
+
+<ul>
+    <li>Dirección 1</li>
+    <li>Dirección 2</li>
+    <li>Dirección 3</li>
+</ul>
+
+</body>
+</html>
