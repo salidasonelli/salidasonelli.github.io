@@ -64,3 +64,12 @@ a:hover {
         padding: 14px;
     }
 }
+a {
+    display: inline-block;
+    padding: 6px 10px;
+    border-radius: 6px;
+}
+
+a:hover {
+    background: rgba(91, 75, 138, 0.1);
+}
