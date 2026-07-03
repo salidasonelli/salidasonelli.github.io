@@ -31,10 +31,15 @@ main {
 
 .tarjeta {
     background: white;
-    border-radius: 12px;
+    border-radius: 14px;
     padding: 18px;
-    margin-bottom: 20px;
-    box-shadow: 0 2px 8px rgba(0,0,0,.10);
+    margin-bottom: 18px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+    transition: transform 0.1s ease;
+}
+
+.tarjeta:active {
+    transform: scale(0.99);
 }
 
 a {
