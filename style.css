@@ -87,3 +87,22 @@ h3 {
     margin-top: 5px;
     color: #5B4B8A;
 }
+/* ===== NO VISITAR ===== */
+
+.no-visitar {
+    margin-top: 25px;
+}
+
+.no-visitar h2 {
+    color: #5B4B8A;
+    margin-bottom: 15px;
+}
+
+.direccion {
+    background: #ffffff;
+    border-left: 5px solid #5B4B8A;
+    border-radius: 10px;
+    padding: 12px 15px;
+    margin-bottom: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,.08);
+}
